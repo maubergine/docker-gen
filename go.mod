@@ -26,7 +26,7 @@ require (
 	github.com/opencontainers/selinux v1.15.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sirupsen/logrus v1.10.2 // indirect
-	golang.org/x/net v0.0.0-20171004034648-a04bdaca5b32 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/sys v0.49.0 // indirect
 	gotest.tools v2.2.0+incompatible // indirect
 )
